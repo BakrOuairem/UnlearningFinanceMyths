@@ -1,0 +1,8 @@
+# Financial Data Importation 
+ibapi
+
+# Data Management and Visualisation
+jax
+
+# IPython deps
+ipykernel
